@@ -1,0 +1,23 @@
+h1 { 
+ font: bold 20px sans-serif; 
+ text-align: center;
+} 
+h2 { 
+ font: bold 16px sans-serif; 
+ text-align: center;
+ color: red;
+} 
+
+#menu { 
+ background: #CCCCCC;  
+ text-align: center;
+ margin: 0;
+} 
+#menu li { 
+ display: inline-block; 
+ list-style: none; 
+ padding: 5px; 
+ padding-left:  50px;
+ padding-right: 50px;
+ font: bold 18px sans-serif; 
+}
